@@ -1,4 +1,4 @@
-package com.webserviceslab1.tests
+package com.webserviceslab1
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.databind.ObjectWriter
